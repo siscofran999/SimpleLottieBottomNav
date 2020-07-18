@@ -2,4 +2,4 @@
 
 Create simple Lottie Bottom Navigation View
 
-![](https://i.ibb.co/gPbYq9C/ezgif-com-video-to-gif-2.gif)
+![Alt Text](https://i.giphy.com/media/fqVAW5QpIEHU9H8iDK/giphy.webp)
