@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleLottieBottomNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="download_fragment">Download fragment</string>
+    <string name="lock_fragment">Lock Fragment</string>
+    <string name="share_fragment">Share Fragment</string>
+    <string name="timer_fragment">Timer Fragment</string>
+    <string name="trash_fragment">Trash Fragment</string>
+</resources>
